@@ -204,7 +204,7 @@ The CNN achieved the best performance by learning local spectral features direct
 
 
 
-\### CNN Confusion Matrix
+###### CNN Confusion Matrix
 
 
 
@@ -212,7 +212,7 @@ The CNN achieved the best performance by learning local spectral features direct
 
 
 
-\### PCA Spectral Components
+###### PCA Spectral Components
 
 
 
@@ -234,7 +234,7 @@ If you want to quickly reproduce the results of the trained model without traini
 
 1. Install dependencies
 
-&nbsp;	pip install -r requirements.txt
+ 	pip install -r requirements.txt
 
 2\. Run:
 
@@ -253,7 +253,7 @@ How to Run
 
 
 1. Clone the repository
-   git clone https://github.com/yourusername/stellar-spectral-classification.git
+   git clone https://github.com/Mo-Mousa99/Steller-Spectral-Classification
    cd stellar-spectral-classification
 2. Create and activate the environment
 
