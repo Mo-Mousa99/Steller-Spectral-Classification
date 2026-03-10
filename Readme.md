@@ -200,23 +200,9 @@ The CNN achieved the best performance by learning local spectral features direct
 
 
 
-##### Example Results
+##### Example results can be found in the [Figures](https://github.com/Mo-Mousa99/Steller-Spectral-Classification/tree/e8f03c08a531f480a2219265437b67dc65d4d5a1/Figures) folder 
 
 
-
-###### CNN Confusion Matrix
-
-
-
-!\[CNN Confusion Matrix](Figure-6-CNN-Confusion-Matrix.png)
-
-
-
-###### PCA Spectral Components
-
-
-
-!\[PCA Spectral Components](Figures/Figure-4-Visualize-PCA.png)
 
 \_\_\_\_\_\_\_
 
